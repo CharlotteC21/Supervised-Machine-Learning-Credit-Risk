@@ -4,6 +4,18 @@
 
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
+
+FINDINGS:
+
+How do the model scores compare to each other, and to the previous results on unscaled data? 
+- The logistical model compared to the Random Forest model has a much lower unscaled training score, but compartively the testing score had less of a delta between the two.
+
+How does this compare to your prediction? Write down your results and thoughts:
+My predictions were that there would be a far greater delta between the logistical and Random Forest unscaled testing scores. 
+
+
+#
+
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
 
 ## Background
